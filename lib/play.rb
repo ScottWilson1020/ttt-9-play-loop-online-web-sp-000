@@ -38,5 +38,5 @@ end
 # Define your play method below
 
 def play
-  turn(board)
+  turn(board) ==0 
 end
