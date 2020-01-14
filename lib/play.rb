@@ -38,6 +38,14 @@ end
 # Define your play method below
 
 def play(board)
-  return
+  turn
+  turn
+  turn
+  turn
+  turn
+  turn
+  turn
+  turn
+  turn
 
 end
