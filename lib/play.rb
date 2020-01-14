@@ -40,7 +40,7 @@ end
 def play(board)
   rounds = 0
   rounds += 1
-  until rounds == 8
+  until rounds = 8
   turn(board) 
 end
 end
