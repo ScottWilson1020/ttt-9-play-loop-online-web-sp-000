@@ -38,8 +38,8 @@ end
 # Define your play method below
 
 def play
-  rounds =0
-  rounds +=1
+  rounds = 0
+  rounds += 1
   until rounds == 8
   turn(board) = 0 
 end
