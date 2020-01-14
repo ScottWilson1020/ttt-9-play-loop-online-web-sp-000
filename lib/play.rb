@@ -38,7 +38,7 @@ end
 # Define your play method below
 
 def play(board)
- round = 0 
+ round = 1 
  round += 1
  until round == 7
   turn(board)
