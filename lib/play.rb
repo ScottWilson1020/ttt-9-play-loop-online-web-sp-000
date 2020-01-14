@@ -43,3 +43,4 @@ def play(board)
  until round == 8
   turn(board)
 end
+end
